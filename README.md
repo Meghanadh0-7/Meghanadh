@@ -29,11 +29,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meghanadh-7&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
 
 # 💻 Tech Stack
 
@@ -70,11 +65,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Meghanadh-7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
 
 ![](https://komarev.com/ghpvc/?username=Meghanadh-7&label=Profile%20Views&color=0e75b6&style=flat)
 
